@@ -1,0 +1,90 @@
+body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #435334;
+}
+
+.main-container {
+  position: relative;
+  left: 35%;
+  background-color: white;
+  width: 400px;
+  height: 650px;
+  border-radius: 20px;
+}
+
+input {
+  display: block;
+  color: rgb(143, 139, 139);
+  margin: auto;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  padding-top: 10%;
+}
+
+label {
+  margin-left: 10%;
+  margin-right: 25%;
+  color: rgb(143, 139, 139);
+  font-family: sans-serif;
+}
+
+input {
+  width: 320px;
+  height: 30px;
+  border: 1px solid rgb(206, 201, 201);
+  border-radius: 5px;
+  margin-top: 3px;
+}
+
+h1,
+p {
+  text-align: center;
+
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+
+.secondpara {
+  font-size: large;
+}
+
+button {
+  height: 40px;
+  width: 200px;
+  margin-top: 25px;
+  margin-left: 25%;
+  border-radius: 5px;
+  background-color: #f94c10;
+  border: none;
+  color: rgb(237, 233, 233);
+  font-size: medium;
+}
+
+span {
+  color: #f86f03;
+}
+
+.outsidePara {
+  height: 400px;
+}
+
+a {
+  text-decoration: none;
+  color: #f86f03;
+}
+
+a:hover {
+  border-bottom: 1px solid #f86f03;
+}
+
+.para {
+  color: white;
+  font-size: large;
+  padding-top: 10px;
+}
